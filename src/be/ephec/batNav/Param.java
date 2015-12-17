@@ -1,4 +1,4 @@
-package be.ephec.projet.shipBattle;
+package be.ephec.batNav;
 import java.net.InterfaceAddress;
 public class Param {
 	public static final int TAILLE_GRILLE = 8;

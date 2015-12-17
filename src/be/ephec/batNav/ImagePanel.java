@@ -1,4 +1,4 @@
-package be.ephec.projet.shipBattle;
+package be.ephec.batNav;
 import java.awt.Graphics;
 import java.awt.Image;
 import java.awt.event.MouseEvent;
